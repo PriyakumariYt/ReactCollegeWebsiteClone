@@ -1,5 +1,5 @@
 import React from "react";
-import SpreadForm from "../ReactPractice/Form/FormSpread";
+import SpreadForm from "./Router/FormSpread";
 const Contact = () => {
   return (
     <>
