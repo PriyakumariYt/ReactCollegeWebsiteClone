@@ -1,5 +1,5 @@
 import React from "react";
-import SpreadForm from "./Router/FormSpread";
+import SpreadForms from "../Router/SpreadForms";
 const Contact = () => {
   return (
     <>
@@ -8,7 +8,7 @@ const Contact = () => {
       <div className="contact">
         <div className="contactpage">
           <h1>Contact Us</h1>
-          <SpreadForm />
+         <SpreadForms/>
         </div>
       </div>
     </>
